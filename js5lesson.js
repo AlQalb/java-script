@@ -17,3 +17,11 @@ else if (k%3==0){console.log(`${k} 3 ga`);}
 else if (k%5==0){console.log(`${k} 5 ga`);}
 
 }
+let son
+for (let son = 0; son <= 100; son=son+2) {
+    console.log( `${son} juft son` );  
+}
+
+
+a=10
+a>0 ? console.log(`musbat son`):console.log(`manfiy son`);
